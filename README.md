@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Manny, Sr. Developer and Designer
+
+- 🔭 I’m currently working on a minimalist micro-blogging
+- 💬 Ask me about Systems Design and Board games
+- 📫 How to reach me: https://eapl.me
+
 <!--
 **eapl-gemugami/eapl-gemugami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
