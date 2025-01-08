@@ -2,7 +2,7 @@
 
 I'm Manny, Sr. Developer and Designer
 
-- 🔭 I’m currently working on a minimalist micro-blogging
+- 🔭 I’m currently volunteering on a minimalist micro-blogging platform [Timeline](https://github.com/sorenpeter/timeline) 
 - 💬 Ask me about Systems Design and Board games
 - 📫 How to reach me: https://eapl.me
 
