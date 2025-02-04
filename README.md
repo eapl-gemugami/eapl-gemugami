@@ -3,8 +3,8 @@
 I'm Manny, Sr. Developer and Designer
 
 - 🔭 I’m currently volunteering on a minimalist micro-blogging platform [Timeline](https://github.com/sorenpeter/timeline)
-- 📃 I'm making a blog system in https://blog.eapl.me
-- 💬 Ask me about Systems Design and Board games
+- 📃 I'm making a customized blog system (PHP & Gemtext) in https://blog.eapl.me
+- 💬 Ask me about Systems Design, Board games and Backend
 - 📫 How to reach me: https://eapl.me
 
 <!--
