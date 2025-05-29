@@ -2,9 +2,11 @@
 
 I'm Manny, Sr. Developer and Designer
 
-- 🔭 I’m currently volunteering on a minimalist micro-blogging platform [Timeline](https://github.com/eapl-gemugami/timeline)
-- 💬 Ask me about Systems Design, Board games and Backend
-- 📫 How to reach me: https://eapl.me
+- 🐍 I like Python and Django
+- 👩🏻‍💻 I have worked in DevRel, ETLs and Backend
+- 🔭 I’m working on an open & minimalist micro-blogging platform [tl](https://github.com/eapl-gemugami/tl)
+- 💬 Ask me about Systems Design and Board Games Design
+- 📫 Reach me at https://eapl.me
 
 <!--
 **eapl-gemugami/eapl-gemugami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
